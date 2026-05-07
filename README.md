@@ -44,3 +44,40 @@ Para superar este ejercicio con éxito, aplica estas reglas en tu flujo de traba
 | Ejercicio no cumple con un mínimo. | El repositorio existe pero no cumple los requisitos mínimos: historia incompleta, HTML o CSS insuficientes, commits escasos o mal estructurados, README pobre o inexistente, sin despliegue en GitHub Pages. | 40 pts |
 | Ejercicio cumple con un mínimo pero falla en ciertos aspectos | La historia está contada en HTML, hay estilos CSS básicos, imágenes añadidas, commits realizados con cierta lógica, README funcional, y GitHub Pages activado. Sin embargo, faltan buenas prácticas claras, planificación insuficiente o commits poco atómicos. | 70 pts |
 | Ejercicio  completo y con todos los requisitos implementados | Historia completa en HTML con capítulos claros, CSS trabajado, imágenes integradas, planificación explicada en el README, commits atómicos y bien descritos siguiendo Conventional Commits, historial limpio, despliegue en GitHub Pages funcional, y README bien redactado con captura final. | 100 pts |
+
+
+
+#Project: Three Little Pigs
+##Project Structure & Planning
+This version of The Three Little Pigs is specially written for easy reading and accessibility. We use simple words, short sentences, and a clear structure to make the story enjoyable for everyone.
+**Chapter 1: **The Big Decision
+**Chapter 2:** Straw, Sticks, and Bricks
+**Chapter 3:** The Hungry Wolf
+**Chapter 4:** Safe at Last
+* **Tech stack:**g HTML and CSS
+###Accessibility & Design
+To ensure this story is accessible to a larger variety of readers I implemented:
+ * **All images and non-text elements  have equivalent text alternatives 
+*  **Font choice: Straw, Sticks, and Bricks/dyslexia-friendly tyopography
+*  **Readability: Large font sizes (20px) and wide line spacing (1,6)
+*  **Visual Comfort: High-contrast colors (cream background) to reduce eye strain.
+###·Project design & Wireframe
+* **Design:**  "C:\Factoria F5 bootcamp\ex-git-and-github-little-red-riding-hood-main\ex-git-and-github-little-red-riding-hood-main\assets\Project design.pdf"
+* **Wireframe:** "C:\Factoria F5 bootcamp\ex-git-and-github-little-red-riding-hood-main\ex-git-and-github-little-red-riding-hood-main\assets\Wireframe.pdf"
+###Commit Planning
+ * **Setup:**
+    -  "feat": add gitignore
+    - "feat": add initial HTML, initial CSS, img and assets files
+   
+* **Docs:/ ** 
+ -  "docs": add project structure and planning and one commit
+   
+* **Main title & Navigation:**
+   - "feat": add main title and syle for it
+   - "feat": add navigation structure and style
+   
+* **Chapters:**
+   - "feat": add structure and styling for Chapter 1 (The Big Decision)
+   - "feat": add structure and styling for Chapter 2 (The House Materials)  
+   - "feat": add structure and styling for Chapter 3 (The Hungry Wolf)
+   - "feat": add structure and styling for Chapter 4 (Safe at Last)
