@@ -48,36 +48,73 @@ Para superar este ejercicio con éxito, aplica estas reglas en tu flujo de traba
 
 
 #Project: Three Little Pigs
+
 ##Project Structure & Planning
 This version of The Three Little Pigs is specially written for easy reading and accessibility. We use simple words, short sentences, and a clear structure to make the story enjoyable for everyone.
-**Chapter 1: **The Big Decision
+
+**Chapter 1:** The Big Decision
 **Chapter 2:** Straw, Sticks, and Bricks
 **Chapter 3:** The Hungry Wolf
 **Chapter 4:** Safe at Last
-* **Tech stack:**g HTML and CSS
+
+* **Tech stack:**HTML and CSS
+
 ###Accessibility & Design
 To ensure this story is accessible to a larger variety of readers I implemented:
- * **All images and non-text elements  have equivalent text alternatives 
+*  **All images and non-text elements  have equivalent text alternatives 
 *  **Font choice: Straw, Sticks, and Bricks/dyslexia-friendly tyopography
 *  **Readability: Large font sizes (20px) and wide line spacing (1,6)
 *  **Visual Comfort: High-contrast colors (cream background) to reduce eye strain.
+
 ###·Project design & Wireframe
-* **Design:**  "C:\Factoria F5 bootcamp\ex-git-and-github-little-red-riding-hood-main\ex-git-and-github-little-red-riding-hood-main\assets\Project design.pdf"
-* **Wireframe:** "C:\Factoria F5 bootcamp\ex-git-and-github-little-red-riding-hood-main\ex-git-and-github-little-red-riding-hood-main\assets\Wireframe.pdf"
+* **Design:** 
+- ![Chapter 1 The Big Decision](docs\img\initial design\Screenshot Chapter 1 the Big decision.jpg) 
+- ![Chapter 2 Straw, Stricks and Bricks](docs\img\initial design\Screenshot Chapter 2 Straw Sticks and Bricks.jpg)
+- ![Chapter 3 Hungry Wolf](docs\img\initial design\Screenshot Chapter 3 Hungry Wolf.jpg)
+- ![Chapter 4 Safe at least](docs\img\initial design\Screenshot Chapter 4 Safe at least.jpg)
+
+
+* **Wireframe:**  (docs\img\initial design\Screenshot initial wareframe.jpg)
+
 ###Commit Planning
  * **Setup:**
-    -  "feat": add gitignore
-    - "feat": add initial HTML, initial CSS, img and assets files
+    - "feat": add giltignore
+    - "feat": add initial HTML, initial CSS
    
 * **Docs:/ ** 
- -  "docs": add project structure and planning and one commit
+   -   "docs": add the project structure, design, wireframe and commit planning
    
-* **Main title & Navigation:**
-   - "feat": add main title and syle for it
-   - "feat": add navigation structure and style
-   
+	
 * **Chapters:**
-   - "feat": add structure and styling for Chapter 1 (The Big Decision)
-   - "feat": add structure and styling for Chapter 2 (The House Materials)  
-   - "feat": add structure and styling for Chapter 3 (The Hungry Wolf)
-   - "feat": add structure and styling for Chapter 4 (Safe at Last)
+   - "feat": add structure and styling for main title "The Threee Little pigs"
+
+	- "feat": add structure and styling for header "Chapter 1 The Big Decision"
+	- "feat": add structure and styling for figure of Chapter 1
+	- "feat": add structure and styling for content/paragraph of Chapter 1
+	
+	
+	- "feat": add structure and styling for header  "Chapter 2 Straw, Sticks and Bricks"
+	- "feat": add structure and styling for  figure of "The Straw House "
+	- "feat": add structure and styling for sub-header "The Straw House "
+	- "feat": add structure and styling for content/paragraph of "The Straw House "
+	- "feat": add structure and styling for  figure of "The Stick House "
+	- "feat": add structure and styling for sub-header "The Stick House "
+	- "feat": add structure and styling for content/paragraph of "The Stick House "
+	- "feat": add structure and styling for  figure of "The Brick House "
+	- "feat": add structure and styling for sub- header "The Brick House "
+	- "feat": add structure and styling for content/paragraph of "The Brick House "
+
+     
+     - "feat": add structure and styling for header  "Chapter 3 The Hungry Wolf"
+     - "feat": add structure and styling for  figure of "Chapter 3 The Hungry Wolf "
+     - "feat": add structure and styling for the first content/paragraph of "Chapter 3 The Hungry Wolf "
+     - "feat": add structure and styling for quote "Little pig, little pig, let me come in! "
+     - "feat": add structure and styling for second content/paragraph of "Chapter 2 The Hungry Wolf "
+      -"feat": add structure and styling for third content/paragraph of "Chapter 2 The Hungry Wolf "
+
+
+      - "feat": add structure and styling for header  "Chapter 4 Safe at Last"
+      - "feat": add structure and styling for figure of "Chapter 4 Safe at Last"
+      - "feat": add structure and styling for content/paragraph of "Chapter 4 Safe at Last"
+      - "feat": add structure and styling for footer of "Chapter 4 Safe at Last"
+
