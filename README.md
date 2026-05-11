@@ -68,21 +68,23 @@ To ensure this story is accessible to a larger variety of readers I implemented:
 
 ###·Project design & Wireframe
 * **Design:** 
-- ![Chapter 1 The Big Decision](docs\img\initial design\Screenshot Chapter 1 the Big decision.jpg) 
-- ![Chapter 2 Straw, Stricks and Bricks](docs\img\initial design\Screenshot Chapter 2 Straw Sticks and Bricks.jpg)
-- ![Chapter 3 Hungry Wolf](docs\img\initial design\Screenshot Chapter 3 Hungry Wolf.jpg)
-- ![Chapter 4 Safe at least](docs\img\initial design\Screenshot Chapter 4 Safe at least.jpg)
+![Chapter 1 The Big Decision](docs/img/initial%20design/Screenshot%20Chapter%201%20the%20Big%20decision.jpg)
+![Chapter 2 Straw, Stricks and Bricks](docs/img/initial%20design/Screenshot%20Chapter%202%20Straw%20Sticks%20and%20Bricks.jpg)
+![Chapter 3 Hungry Wolf](docs\img\initial design\Screenshot Chapter 3 Hungry Wolf.jpg)
+![Chapter 4 Safe at least](docs\img\initial design\Screenshot Chapter 4 Safe at least.jpg)
+![Chapter 3 Hungry Wolf](docs/img/initial%20design/Screenshot%20Chapter%203%20Hungry%20Wolf.jpg)
+![Chapter 4 Safe at least](docs/img/initial%20design/Screenshot%20Chapter%204%20Safe%20at%20least.jpg)
 
 
-* **Wireframe:**  (docs\img\initial design\Screenshot initial wareframe.jpg)
-
+* **Wireframe:**
+![Initial wireframe](docs/img/initial%20design/Screenshot%20initial%20wareframe.jpg)
 ###Commit Planning
  * **Setup:**
     - "feat": add giltignore
     - "feat": add initial HTML, initial CSS
    
 * **Docs:/ ** 
-   -   "docs": add the project structure, design, wireframe and commit planning
+   -   "docs": add project documents
    
 	
 * **Chapters:**
@@ -91,8 +93,6 @@ To ensure this story is accessible to a larger variety of readers I implemented:
 	- "feat": add structure and styling for header "Chapter 1 The Big Decision"
 	- "feat": add structure and styling for figure of Chapter 1
 	- "feat": add structure and styling for content/paragraph of Chapter 1
-	
-	
 	- "feat": add structure and styling for header  "Chapter 2 Straw, Sticks and Bricks"
 	- "feat": add structure and styling for  figure of "The Straw House "
 	- "feat": add structure and styling for sub-header "The Straw House "
@@ -102,19 +102,15 @@ To ensure this story is accessible to a larger variety of readers I implemented:
 	- "feat": add structure and styling for content/paragraph of "The Stick House "
 	- "feat": add structure and styling for  figure of "The Brick House "
 	- "feat": add structure and styling for sub- header "The Brick House "
-	- "feat": add structure and styling for content/paragraph of "The Brick House "
-
-     
-     - "feat": add structure and styling for header  "Chapter 3 The Hungry Wolf"
-     - "feat": add structure and styling for  figure of "Chapter 3 The Hungry Wolf "
-     - "feat": add structure and styling for the first content/paragraph of "Chapter 3 The Hungry Wolf "
-     - "feat": add structure and styling for quote "Little pig, little pig, let me come in! "
-     - "feat": add structure and styling for second content/paragraph of "Chapter 2 The Hungry Wolf "
-      -"feat": add structure and styling for third content/paragraph of "Chapter 2 The Hungry Wolf "
-
-
-      - "feat": add structure and styling for header  "Chapter 4 Safe at Last"
-      - "feat": add structure and styling for figure of "Chapter 4 Safe at Last"
-      - "feat": add structure and styling for content/paragraph of "Chapter 4 Safe at Last"
-      - "feat": add structure and styling for footer of "Chapter 4 Safe at Last"
+	- "feat": add structure and styling for content/paragraph of "The Brick House 
+   - "feat": add structure and styling for header  "Chapter 3 The Hungry Wolf"
+   - "feat": add structure and styling for  figure of "Chapter 3 The Hungry Wolf "
+   - "feat": add structure and styling for the first content/paragraph of "Chapter 3 The Hungry Wolf "
+   - "feat": add structure and styling for quote "Little pig, little pig, let me come in! "
+   - "feat": add structure and styling for second content/paragraph of "Chapter 2 The Hungry Wolf "
+   - "feat": add structure and styling for third content/paragraph of "Chapter 2 The Hungry Wolf "
+   - "feat": add structure and styling for header  "Chapter 4 Safe at Last"
+   - "feat": add structure and styling for figure of "Chapter 4 Safe at Last"
+   - "feat": add structure and styling for content/paragraph of "Chapter 4 Safe at Last"
+   - "feat": add structure and styling for footer of "Chapter 4 Safe at Last"
 
