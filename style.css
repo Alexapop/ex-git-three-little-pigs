@@ -76,6 +76,7 @@ blockquote {
     max-width: 670px;
     height: auto;
     align-items: center;
+    object-fit: cover;
     }
 
     figcaption{
