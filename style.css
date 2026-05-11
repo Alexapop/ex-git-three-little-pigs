@@ -2,7 +2,27 @@ h1 {
     background-color: #fdfaf0;
     color: #e36363;
     font-family: opendyslexic, sans-serif;
-    font-size: 20px;
+    font-size: 25px;
     text-align: center;
     line-height: 1.6;
+    
 }
+.label {
+    background-color: #fdfaf0;
+    color: #ad3d3d;
+    font-family: opendyslexic, sans-serif;
+    font-size: 20px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    line-height: 1.6;
+    text-transform: uppercase;
+}
+.title{display:block;
+    background-color: #fdfaf0;
+    color: #111010;
+    font-family: opendyslexic, sans-serif;
+    font-size: 28px;
+    padding: 2px 6px;
+    border-radius: 4px;
+    line-height: 1.6;
+    margin-top: 5px;}
