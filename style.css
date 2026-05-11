@@ -2,7 +2,7 @@
 body {
     background-color: #fdfaf0;
     color: #111010;
-    font-family: opendyslexic, sans-serif;align-items: center;
+    font-family: opendyslexic, sans-serif;
     max-width: 800px; margin: 50px auto;display: flex; flex-direction: column;
 }
 h1 {
@@ -11,11 +11,35 @@ h1 {
     font-family: opendyslexic, sans-serif;
     font-size: 25px;
     text-align: center;
+    margin-left: -60px;
     line-height: 1.6;
 
  h2 {display: flex; flex-direction: column; align-items: center;}   
 text-align: center;margin-bottom: 30px;}
 
+p{ 
+    background-color: #fdfaf0;
+    color: #181313;
+    font-family: opendyslexic, sans-serif;
+    text-align : left;
+    margin-top: 20px;
+    padding: 20px;
+    max-width: 650px;display: flex; flex-direction: column;
+}
+
+blockquote {
+    background-color: #fdfaf0;
+    color: #473333;
+    font-family: opendyslexic, sans-serif;
+    font-style: italic;
+    padding: 20px;
+    border-left: 4px solid #e36363;
+    margin-left: 60px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 40px;
+    max-width: 650px;display: flex; flex-direction: column;
+}
 .label {
     background-color: #fdfaf0;
     color: #ad3d3d;
@@ -23,10 +47,12 @@ text-align: center;margin-bottom: 30px;}
     font-size: 20px;
     padding: 2px 6px;
     border-radius: 4px;
-    line-height: 1.6;
-    text-transform: uppercase;
-    text-align: center;
+    margin-top: 5px;
     margin-left: 70px;
+    text-align:left;
+    line-height: 1.6;
+    text-transform: uppercase;text-align: center;
+     
 }
 .title{display:block;
     background-color: #fdfaf0;
@@ -43,11 +69,11 @@ text-align: center;margin-bottom: 30px;}
     .story-pictures{
     display: flex;
     justify-content: center;
-    margin: 40px;
+    margin: 0px;
     border-radius: 40px;
     flex-direction: column;
-    width: 100%;
-    max-width: 700px;
+    width: 200%;
+    max-width: 670px;
     height: auto;
     align-items: center;
     }
