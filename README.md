@@ -111,7 +111,7 @@ To ensure this story is accessible to a larger variety of readers I implemented:
    - "feat": add structure and styling for footer of "Chapter 4 Safe at Last"
 
 ## Final Result
-![Final Result Big Decision](docs\img\photos\Final-Result-Big-Decision.jpg)
-![Final Result Chapter 2](docs\img\photos\Final-Result-Chapter2.jpg)
-![Final Result Chapter 3](docs\img\photos\Final-Result-Chapter3.jpg)
-![Final Result Chapter 4](docs\img\photos\Final-Result-Chapter4.jpg)
+![Final Result Big Decision](docs/img/photos/Final-Result-Big-Decision.jpg)
+![Final Result Chapter 2](docs/img/photos/Final-Result-Chapter2.jpg)
+![Final Result Chapter 3](docs/img/photos/Final-Result-Chapter3.jpg)
+![Final Result Chapter 4](docs/img/photos/Final-Result-Chapter4.jpg)
