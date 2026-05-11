@@ -88,29 +88,25 @@ To ensure this story is accessible to a larger variety of readers I implemented:
    
 	
 * **Chapters:**
-   - "feat": add structure and styling for main title "The Threee Little pigs"
-
-	- "feat": add structure and styling for header "Chapter 1 The Big Decision"
+   - "feat": add structure and styling for header "The Threee Little pigs"
+	- "feat": add structure and styling for heading "Chapter 1 The Big Decision"
 	- "feat": add structure and styling for figure of Chapter 1
-	- "feat": add structure and styling for content/paragraph of Chapter 1
-	- "feat": add structure and styling for header  "Chapter 2 Straw, Sticks and Bricks"
+	- "feat": add structure and styling for content of Chapter 1
+	- "feat": add structure and styling for heading "Chapter 2 Straw, Sticks and Bricks"
 	- "feat": add structure and styling for  figure of "The Straw House "
-	- "feat": add structure and styling for sub-header "The Straw House "
-	- "feat": add structure and styling for content/paragraph of "The Straw House "
+	- "feat": add structure and styling for sub-heading "The Straw House "
+	- "feat": add structure and styling for content of "The Straw House "
 	- "feat": add structure and styling for  figure of "The Stick House "
-	- "feat": add structure and styling for sub-header "The Stick House "
-	- "feat": add structure and styling for content/paragraph of "The Stick House "
+	- "feat": add structure and styling for sub-heading "The Stick House "
+	- "feat": add structure and styling for content of "The Stick House "
 	- "feat": add structure and styling for  figure of "The Brick House "
-	- "feat": add structure and styling for sub- header "The Brick House "
-	- "feat": add structure and styling for content/paragraph of "The Brick House 
-   - "feat": add structure and styling for header  "Chapter 3 The Hungry Wolf"
+	- "feat": add structure and styling for sub-heading "The Brick House "
+	- "feat": add structure and styling for content of "The Brick House 
+   - "feat": add structure and styling for heading  "Chapter 3 The Hungry Wolf"
    - "feat": add structure and styling for  figure of "Chapter 3 The Hungry Wolf "
-   - "feat": add structure and styling for the first content/paragraph of "Chapter 3 The Hungry Wolf "
-   - "feat": add structure and styling for quote "Little pig, little pig, let me come in! "
-   - "feat": add structure and styling for second content/paragraph of "Chapter 2 The Hungry Wolf "
-   - "feat": add structure and styling for third content/paragraph of "Chapter 2 The Hungry Wolf "
-   - "feat": add structure and styling for header  "Chapter 4 Safe at Last"
+   - "feat": add structure and styling for the first content of "Chapter 3 The Hungry Wolf "
+   - "feat": add structure and styling for heading  "Chapter 4 Safe at Last"
    - "feat": add structure and styling for figure of "Chapter 4 Safe at Last"
-   - "feat": add structure and styling for content/paragraph of "Chapter 4 Safe at Last"
+   - "feat": add structure and styling for content of "Chapter 4 Safe at Last"
    - "feat": add structure and styling for footer of "Chapter 4 Safe at Last"
 
